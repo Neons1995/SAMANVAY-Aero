@@ -269,7 +269,7 @@ const Index = () => {
               Ready to elevate your operations?
             </h2>
             <p className="text-muted-foreground text-lg mb-12">
-              Partner with AeroVision to deploy next-generation aerial intelligence.
+              Partner with SamanvayAero to deploy next-generation aerial intelligence.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link

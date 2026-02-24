@@ -12,7 +12,7 @@ const Footer = () => {
                 <span className="font-display font-bold text-primary text-sm">AV</span>
               </div>
               <span className="font-display font-semibold text-foreground tracking-tight text-lg">
-                AeroVision
+                SamanvayAero
               </span>
             </Link>
             <p className="text-sm text-muted-foreground leading-relaxed max-w-xs">

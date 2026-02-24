@@ -19,9 +19,9 @@ const Contact = () => {
   };
 
   const contactInfo = [
-    { icon: MapPin, label: "Headquarters", value: "1200 Defense Corridor\nWashington, D.C. 20001" },
-    { icon: Phone, label: "Phone", value: "+1 (800) 555-0199" },
-    { icon: Mail, label: "Email", value: "contact@aerovision.com" },
+    { icon: MapPin, label: "Headquarters", value: "To be updated" },
+    { icon: Phone, label: "Phone", value: "To be updated" },
+    { icon: Mail, label: "Email", value: "neonsrin@syr.edu" },
   ];
 
   return (

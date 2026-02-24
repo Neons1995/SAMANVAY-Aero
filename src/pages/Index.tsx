@@ -61,7 +61,7 @@ const Index = () => {
               transition={{ duration: 0.8, delay: 0.2, ease }}
               className="text-xs font-semibold uppercase tracking-[0.25em] text-primary mb-6"
             >
-              Aerial Intelligence Platform
+              Autonomy, in perfect Harmony. 
             </motion.p>
             <motion.h1
               initial={{ opacity: 0, y: 40 }}
@@ -79,7 +79,7 @@ const Index = () => {
               transition={{ duration: 0.8, delay: 0.7, ease }}
               className="mt-8 text-lg text-muted-foreground max-w-lg leading-relaxed"
             >
-              AI-powered drone solutions delivering actionable intelligence for government, defense, and critical infrastructure.
+              Safe & reliable Multi-UAV operations platform delivering actionable intelligence for government, public, and critical infrastructure.
             </motion.p>
             <motion.div
               initial={{ opacity: 0, y: 20 }}

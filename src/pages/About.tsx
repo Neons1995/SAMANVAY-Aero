@@ -37,7 +37,7 @@ const About = () => {
             transition={{ duration: 0.6, ease }}
             className="text-xs font-semibold uppercase tracking-[0.25em] text-primary mb-6"
           >
-            About AeroVision
+            About SamanvayAero
           </motion.p>
           <motion.h1
             initial={{ opacity: 0, y: 40 }}
@@ -102,10 +102,10 @@ const About = () => {
                 From vision to mission-ready
               </h2>
               <p className="text-muted-foreground leading-relaxed mb-5">
-                AeroVision was founded by defense technologists, aerospace engineers, and AI researchers who recognized the transformative potential of autonomous aerial systems for national security.
+                SamanvayAero was founded by technologists, aerospace engineers, and AI researchers who recognized the transformative potential of autonomous aerial systems for national security.
               </p>
               <p className="text-muted-foreground leading-relaxed">
-                Today we deliver integrated drone intelligence platforms trusted by government agencies and defense organizations worldwide.
+                Today we deliver integrated drone intelligence platforms trusted by government agencies and public organizations worldwide.
               </p>
             </motion.div>
 

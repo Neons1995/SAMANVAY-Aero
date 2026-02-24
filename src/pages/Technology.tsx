@@ -90,7 +90,7 @@ const Technology = () => {
           >
             <p className="text-xs font-semibold uppercase tracking-[0.25em] text-primary mb-5">Core Stack</p>
             <h2 className="font-display text-4xl md:text-5xl font-bold text-foreground leading-[1.05] max-w-xl">
-              The AeroVision platform
+              The SamanvayAero platform
             </h2>
           </motion.div>
 

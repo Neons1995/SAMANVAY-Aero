@@ -51,7 +51,7 @@ const Contact = () => {
             transition={{ duration: 0.6, delay: 0.35, ease }}
             className="mt-8 text-lg text-muted-foreground max-w-xl leading-relaxed"
           >
-            Ready to discuss how AeroVision can support your mission? Our team is standing by.
+            Ready to discuss how SamanvayAero can support your mission? Our team is standing by.
           </motion.p>
         </div>
       </section>

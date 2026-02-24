@@ -57,7 +57,7 @@ const Footer = () => {
         </div>
 
         <div className="mt-16 pt-8 border-t border-border flex flex-col md:flex-row items-center justify-between gap-4">
-          <p className="text-xs text-muted-foreground">© 2026 AeroVision. All rights reserved.</p>
+          <p className="text-xs text-muted-foreground">© 2026 SamanvayAero. All rights reserved.</p>
           <div className="flex gap-8 text-xs text-muted-foreground">
             <span className="hover:text-foreground transition-colors cursor-pointer">Privacy</span>
             <span className="hover:text-foreground transition-colors cursor-pointer">Terms</span>

@@ -7,12 +7,12 @@ import aerialMapping from "@/assets/aerial-mapping.jpg";
 
 const ease = [0.22, 1, 0.36, 1] as const;
 
-/* const stats = [
+const stats = [
   { value: "...", label: "Missions Completed" },
   { value: "...", label: "Countries Served" },
   { value: "...", label: "System Uptime" },
   { value: "...", label: "Operations Center" },
-]; */
+]; 
 
 const values = [
   { title: "Mission First", description: "Every system designed for mission success in the most demanding environments." },

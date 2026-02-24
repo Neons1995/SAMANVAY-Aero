@@ -34,7 +34,7 @@ const Navbar = () => {
       <div className="container mx-auto px-6 lg:px-12 py-5 flex items-center justify-between">
         <Link to="/" className="flex items-center gap-3 group">
           <div className="w-9 h-9 rounded-lg bg-primary/10 border border-primary/20 flex items-center justify-center group-hover:bg-primary/20 transition-colors">
-            <span className="font-display font-bold text-primary text-sm">AV</span>
+            <span className="font-display font-bold text-primary text-sm">SA</span>
           </div>
           <span className="font-display font-semibold text-foreground tracking-tight text-lg">
             SamanvayAero
